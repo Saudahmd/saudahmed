@@ -23,6 +23,13 @@ calm atmosphere
 2. Refined prompt iteratively
 3. Selected best generated image
 
+## What I Learned
+During this task I learned how to:
+- Write clear and structured prompts
+- Use examples to guide the model
+- Control output format
+- Improve response quality using better instructions
+
 ## Files
 
 - final_image.png
