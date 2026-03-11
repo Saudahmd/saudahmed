@@ -1,0 +1,6 @@
+Embeddings convert text into vectors representing meaning.
+LLMs can hallucinate facts when they lack specific training data.
+Retrieval Augmented Generation (RAG) uses external data to improve LLM accuracy.
+Diffusion models generate images by gradually removing noise.
+Transformers use self-attention for sequence modeling.
+Recursive chunking is the most popular method for splitting documents in RAG.

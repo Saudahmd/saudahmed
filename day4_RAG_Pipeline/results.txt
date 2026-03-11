@@ -1,0 +1,7 @@
+Query: What are embeddings?
+Retrieved Document:
+Embeddings convert text into vectors representing meaning.
+
+Query: How are images generated?
+Retrieved Document:
+Diffusion models generate images by gradually removing noise.
