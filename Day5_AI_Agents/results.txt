@@ -1,0 +1,19 @@
+Query: What is 12 * 7?
+Tool used: calculator
+Answer: 84
+
+Query: What is 100/5?
+Tool used: calculator
+Answer: 20.0
+
+Query: Explain what embeddings are.
+Tool used: none
+Answer: Embeddings are numerical vector representations of text that capture semantic meaning.
+
+Query: What is 9*9?
+Tool used: calculator
+Answer: 81
+
+Query: What is 5 + 12?
+Tool used: calculator
+Answer: 17

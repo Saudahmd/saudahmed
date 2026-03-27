@@ -1,0 +1,11 @@
+STEP 1: Install Python
+
+STEP 2: Open terminal in run_model_code folder
+
+STEP 3: Install dependencies:
+pip install -r requirements.txt
+
+STEP 4: Run model:
+python run_qwen_local.py
+
+STEP 5: Enter prompts and test
